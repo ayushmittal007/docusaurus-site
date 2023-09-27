@@ -72,20 +72,25 @@ const config = {
         // },
         items: [
           {
-            label: 'Home',
-            to: '/docs/home',
+            label: 'Ishika',
+            to: '/docs/ishika',
             position: 'left'
           },
           {
-            label: 'About',
-            to: '/docs/about',
+            label: 'Sanika',
+            to: '/docs/sanika',
             position: 'left'
           },
-          {
-            label: 'Skills',
-            to: '/docs/skills',
-            position: 'left'
-          },
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
+          // {
+          //   label: 'Skills',
+          //   to: '/docs/skills',
+          //   position: 'left'
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
