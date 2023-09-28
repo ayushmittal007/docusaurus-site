@@ -111,12 +111,20 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+          {
+            label:'ujjwal Rana',
+            to:'/docs/Ujjwal',
+            position:'left'
+          },
+          { label: 'Prashant Kushwaha',
+          to: '/docs/Prashant',
+          position: 'left'
+          },
          { 
             label:'shreyash chaurasia',
             to:'/docs/shreyash chaurasia',
             position:'left'
         },
-
 
           // {
           //   label: 'About',
