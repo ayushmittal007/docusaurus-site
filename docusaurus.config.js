@@ -92,6 +92,11 @@ const config = {
             position: 'left'
           },
           {
+               label: 'Sarthak_Rastogi',
+                to: '/docs/Sarthak_Rastogi',
+                position: 'left'
+          },
+          {
             label: 'Lakshay Gupta',
             to: '/docs/lakshay_gupta',
             position: 'left'
