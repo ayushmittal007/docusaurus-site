@@ -116,11 +116,11 @@ const config = {
             to: '/docs/Tejas_Sharma',
             position: 'left'
           },
-          // {
-          //   label: 'Skills',
-          //   to: '/docs/skills',
-          //   position: 'left'
-          // },
+          {
+            label: 'prashant_kumar',
+            to: '/docs/prashant_kumar',
+            position: 'left'
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
