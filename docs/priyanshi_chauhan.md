@@ -33,9 +33,9 @@ Hello, I'm Priyanshi Chauhan, a passionate student with a keen interest in web d
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* john.doe@example.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
-- *GitHub:* [John Doe on GitHub](https://github.com/johndoe)
+- *Email:* pc.chauhan2004@gmail.com
+- *LinkedIn:* [Priyanshi Chauhan on LinkedIn](https://www.linkedin.com/in/johndoe)
+- *GitHub:* [Priyanshi Chauhan on GitHub](https://github.com/johndoe)
 
 
 
