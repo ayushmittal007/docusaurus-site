@@ -15,7 +15,7 @@ Hello, I'm John Doe, a passionate software engineer with a keen interest in web 
 ![Project 1]
 
 - *Description:* This is a cool project that I contributed to in my sophomore year. It has some great features and displays my college website.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/poorvakhatri04/college_project.git)
+- *GitHub Repository:* [Project Repo](https://github.com/poorvakhatri04/college_project.git)
 
 ## Call to Action
 
