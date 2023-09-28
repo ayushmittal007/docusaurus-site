@@ -7,7 +7,7 @@ sidebar_label: Harsh Jain
 # Welcome to My Portfolio
 
 
-![Profile Image](https://scontent-del1-2.cdninstagram.com/v/t51.2885-19/378039437_976523543579362_6751945562166507415_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-del1-2.cdninstagram.com&_nc_cat=110&_nc_ohc=Ha4ticpCp38AX-KTZCQ&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCtPwLvT9tpX4UW3K9BiOLKwgp4ET2OpxgPxVPMMmm86w&oe=6519DD59&_nc_sid=ee9879)
+![Profile Image](https://scontent-del1-2.cdninstagram.com/v/t51.2885-19/378039437_976523543579362_6751945562166507415_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-del1-2.cdninstagram.com&_nc_cat=110&_nc_ohc=Ha4ticpCp38AX-KTZCQ&edm=AId3EpQBAAAA&ccb=7-5&oh=00_AfCSVNmw3pQvuCibvciw64vyyFUpua0FDjwjFjNcbR3jtQ&oe=6519DD59&_nc_sid=f5838a)
 
 ## Introduction
 
