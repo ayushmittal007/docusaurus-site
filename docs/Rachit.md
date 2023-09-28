@@ -18,7 +18,7 @@ sidebar_label: Rachit
 
 ### Project 1: Chose the Door
 
-![Project](https://drive.google.com/file/d/1OhEX2HB6wI7akvM1evQ0IjKfPoNhSVky/view?usp=sharing)
+![Project](https://imgur.com/a/NPIlKDE)
 
 - _Description:_ I have created a app that puts three choices in front of the user and askes to make the correct choice.
 - _GitHub Repository:_ [Right Door Choice](https://github.com/rockyhappy/RightDoorChoice)
