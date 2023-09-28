@@ -116,6 +116,12 @@ const config = {
             to: '/docs/Tejas_Sharma',
             position: 'left'
           },
+          {
+            label: 'Priyanshi Chauhan',
+            to: '/docs/priyanshi_chauhan',
+            position: 'left'
+          },
+          
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
