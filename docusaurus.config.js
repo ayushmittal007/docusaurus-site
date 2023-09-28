@@ -111,11 +111,26 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+          { label: 'Prashant Kushwaha',
+          to: '/docs/Prashant',
+          position: 'left'
+          },
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
           {
             label: 'Tejas Sharma',
             to: '/docs/Tejas_Sharma',
             position: 'left'
           },
+          {
+            label: 'Priyanshi Chauhan',
+            to: '/docs/priyanshi_chauhan',
+            position: 'left'
+          },
+          
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
