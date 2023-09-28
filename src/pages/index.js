@@ -4,9 +4,9 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import CustomSidebar from "./customSidebar";
 
 import styles from "./index.module.css";
+import Newbar from "./new";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -14,7 +14,7 @@ function HomepageHeader() {
     <div className="container mainDiv">
       <div className="row">
         <div className="col col--3 navbarSide">
-          <CustomSidebar navbarItems={siteConfig.themeConfig.navbar.items} />
+          <Newbar navbarItems={siteConfig.themeConfig.navbar.items} />
         </div>
         <div className="mainSection">
           {/* <header className={clsx("hero hero--primary", styles.heroBanner)}> */}

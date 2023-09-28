@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 
-function CustomSidebar({ navbarItems }) {
+function Newbar({ navbarItems }) {
   return (
     <aside>
       <ul className='navList'>
@@ -15,4 +15,4 @@ function CustomSidebar({ navbarItems }) {
   );
 }
 
-export default CustomSidebar;
+export default Newbar;
