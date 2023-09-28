@@ -19,6 +19,13 @@ I'm always open to new opportunities and collaborations. If you have an interest
 - *Email:* dubeydeepika1209@gmail.com
 - *LinkedIn:* [Deepika on LinkedIn] (https://www.linkedin.com/in/deepika-dubey-6384a2255)
 - *GitHub:* [Deepika on GitHub](https://github.com/software-incubator-probation-1/introduction-to-git-Dubey1209)
+### Project 1: Awesome Project
+
+![Project 1]
+
+- Description: This is an awesome project I worked on. It does amazing things.
+- GitHub Repository: [Project 1 Repo](https://github.com/Dubey1209/Portfolio.git)
+
 
 
 
