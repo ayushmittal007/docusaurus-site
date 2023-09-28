@@ -118,7 +118,7 @@ const config = {
           },
           {
             label: 'saanvisonker',
-            to: '/docs/saanvisonker',
+            to: '/docs/Saanvi',
             position: 'left'
           },
           // {
