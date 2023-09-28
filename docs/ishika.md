@@ -1,7 +1,7 @@
 ---
-id: Deepika
-title: Deepika
-sidebar_label: Deepika
+id: Ishika
+title: Ishika
+sidebar_label: Ishika
 ---
 
 # Welcome to My Portfolio
@@ -13,13 +13,29 @@ sidebar_label: Deepika
 
 Hello, I'm John Doe, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
+## Featured Work
 
+### Project 1: Awesome Project
+
+![Project 1](https://example.com/project1.jpg)
+
+- Description: This is an awesome project I worked on. It does amazing things.
+- GitHub Repository: [Project 1 Repo](https://github.com/your-username/project1)
+
+### Project 2: Cool Project
+
+![Project 2](https://example.com/project2.jpg)
+
+- Description: This is a cool project that I contributed to. It has some great features.
+- GitHub Repository: [Project 2 Repo](https://github.com/your-username/project2)
+
+## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* john.doe@example.com
-- *LinkedIn:* [Deepika on LinkedIn](https://www.linkedin.com/in/johndoe)
-- *GitHub:* [Deepika on GitHub](https://github.com/johndoe)
+- Email: john.doe@example.com
+- LinkedIn: [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
+- GitHub: [John Doe on GitHub](https://github.com/johndoe)
 
 
 
@@ -31,11 +47,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, Deepika Dubey, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm John Doe, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* Deepika Dubey
-- *Date of Birth:* September 12,2003
-- *Location:* Mirzapur , Uttar Pradesh
+- Full Name: John Doe
+- Date of Birth: January 1, 1990
+- Location: New York, NY
 
 ## Passions and Values
 
@@ -76,7 +92,51 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 ### Web Development
 
-- *Frontend:*
+- Frontend:
   - HTML
   - CSS
-  
+  - JavaScript
+  - React
+  - Vue.js
+  - Redux
+- Backend:
+  - Node.js
+  - Express.js
+  - Python (Django, Flask)
+  - Ruby on Rails
+
+### Database Management
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
+
+### Version Control
+
+- Git
+
+### Tools & Technologies
+
+- Docker
+- RESTful API Development
+- GraphQL
+- Responsive Web Design
+- Testing (Jest, Mocha, Chai)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Agile Development
+
+## Certifications
+
+
+- [AWS Certified Developer - Associate](https://github.com/your-username/project1)
+- [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
+- [ Google Analytics Certification](https://github.com/your-username/project1)
+
+## Languages
+
+- JavaScript
+- Python
+- Ruby
+- SQL
+- HTML/CSS
