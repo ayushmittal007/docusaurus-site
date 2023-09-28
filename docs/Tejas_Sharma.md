@@ -44,7 +44,7 @@ Thank you for taking the time to get to know me, and I am excited to embark on t
 - *Description:* i have created a survey with HTML and CSS such that it's important to prioritize user experience, accessibility, and data privacy and  Ensure that survey is well-structured, visually appealing, and easy to navigate to encourage participation and provide valuable insights.
 - *GitHub Repository:* [Project 2 Repo](https://github.com/Mr-TejasSharma/Portfolio/)
 
-### Project 1: Portfolio 
+### Project 3: New Portfolio 
 
 ![Project 3]()
 
