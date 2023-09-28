@@ -101,6 +101,11 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+          {
+            label:'ujjwal Rana',
+            to:'/docs/Ujjwal_rana',
+            position:'left'
+          }
           // {
           //   label: 'About',
           //   to: '/docs/about',
