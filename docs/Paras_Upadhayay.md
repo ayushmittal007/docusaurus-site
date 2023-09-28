@@ -7,35 +7,49 @@ sidebar_label: Paras
 # Welcome to My Portfolio
 
 
-![Profile Image](https://example.com/profile-image.jpg)
+![Profile Image](https://media.licdn.com/dms/image/D4D03AQHrGoC7KTOAOw/profile-displayphoto-shrink_400_400/0/1669644346021?e=1701302400&v=beta&t=unhMIAbRFQeEDL1PaaAHTvsibW69zV966rsAgvV2MYA)
 
 ## Introduction
 
-Hello, I'm John Doe, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+Hello, I'm Paras Upadhayay currently pursuing my B.Tech in Computer Science from Ajay Kumar Garg Engineering College, Ghaziabad.
+I am very passionate about coding and developing. 
+I am eager to continue expanding my knowledge and expertise in the world of computer science and software development. Whether it's building innovative Android apps or conquering coding competitions, I'm always up for the challenge.
 
 ## Featured Work
 
-### Project 1: Awesome Project
+### Project 1: Instagram Clone
 
-![Project 1](https://example.com/project1.jpg)
 
-- *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
+<!--(https://example.com/project1.jpg) -->
 
-### Project 2: Cool Project
+- *Description:* "InstaClone: Redefining Social Media with Flutter and Firebase 📸✨
 
-![Project 2](https://example.com/project2.jpg)
+InstaClone is your go-to social media platform, meticulously crafted using Flutter and powered by Firebase, to deliver an Instagram-like experience right to your smartphone. With InstaClone, you can effortlessly connect with friends, share life's moments, and explore an immersive world of visual storytelling, all within a sleek and intuitive interface.
 
-- *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
+
+- *GitHub Repository:* [Project 1 Repo](https://github.com/lakshya1goel/Instagram-Clone)
+
+### Project 2: World Clock 
+
+
+- *Description:* "World Clock: Stay Globally Connected ⏰🌎
+
+Introducing the World Clock app, your ultimate tool for keeping pace with time zones across the globe. Designed with precision and ease of use in mind, this app is your passport to the world's timekeeping needs.
+- *GitHub Repository:* [Project 2 Repo](https://github.com/Pudv95/WorldTime)
+
+### Project 3: Atari Breakout 
+
+
+- *Description:* Experience an adrenaline-fueled aerial duel, as nimble planes unleash havoc in a quest for victory and aerial supremacy.
+- *GitHub Repository:* [Project 2 Repo](https://github.com/Pudv95/Atari_breakout)
 
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* john.doe@example.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
-- *GitHub:* [John Doe on GitHub](https://github.com/johndoe)
+- *Email:* vivekupadhayay18@gmail.com
+- *LinkedIn:* [Paras on LinkedIn](https://www.linkedin.com/in/pudv95)
+- *GitHub:* [Paras on GitHub](https://github.com/pudv95)
 
 
 
@@ -47,11 +61,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm John Doe, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm Paras Upadhayay a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* John Doe
-- *Date of Birth:* January 1, 1990
-- *Location:* New York, NY
+- *Full Name* Paras Upadhayay
+- *Date of Birth:* July 25, 2003
+- *Location:* Uttar Pradesh, India
 
 ## Passions and Values
 
@@ -95,21 +109,9 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 - *Frontend:*
   - HTML
   - CSS
-  - JavaScript
-  - React
-  - Vue.js
-  - Redux
-- *Backend:*
-  - Node.js
-  - Express.js
-  - Python (Django, Flask)
-  - Ruby on Rails
 
 ### Database Management
 
-- MongoDB
-- PostgreSQL
-- MySQL
 - Firebase
 
 ### Version Control
@@ -118,25 +120,17 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 ### Tools & Technologies
 
-- Docker
-- RESTful API Development
-- GraphQL
-- Responsive Web Design
-- Testing (Jest, Mocha, Chai)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Agile Development
+
 
 ## Certifications
 
 
-- [*AWS Certified Developer - Associate*](https://github.com/your-username/project1)
-- [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
-- [ *Google Analytics Certification*](https://github.com/your-username/project1)
+- [*APostman API Fundamentals Student Expert*](https://badgr.com/public/assertions/X0imftIDR66tUEDH25rzGA)
+- [*Learning C++*](https://www.linkedin.com/learning/certificates/e479be6de9b52af35544df707ad10b59d0ffdb5f8c9ca8c6a13fc5058a8676b8)
 
 ## Languages
 
-- *JavaScript*
+- *C++*
 - *Python*
-- *Ruby*
-- *SQL*
-- *HTML/CSS*
+- *Dart*
+
