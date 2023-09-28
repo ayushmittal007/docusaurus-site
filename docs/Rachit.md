@@ -18,25 +18,25 @@ sidebar_label: Rachit
 
 ### Project 1: Chose the Door
 
-![Project](https://imgur.com/a/NPIlKDE)
+<!-- ![Project](https://imgur.com/a/NPIlKDE) -->
 
 - _Description:_ I have created a app that puts three choices in front of the user and askes to make the correct choice.
 - _GitHub Repository:_ [Right Door Choice](https://github.com/rockyhappy/RightDoorChoice)
 
-### Project 2: Amazone clone
+### Project 2: Text Vault
 
-![Project 2](https://seeklogo.com/images/A/amazon-icon-logo-8F577E5C31-seeklogo.com.png)
+<!-- ![Project 2](https://seeklogo.com/images/A/amazon-icon-logo-8F577E5C31-seeklogo.com.png) -->
 
-- _Description:_ I have created a full stack amazone clone with flutter as frontend and Node,Mongodb,Express as backend
-- _GitHub Repository:_ [Amazone](https://github.com/AVtheking/Amazone.git)
+- _Description:_ This project is completely based on FireBase and how to access it from different activities and fragments.
+- _GitHub Repository:_ [Personal Text Valt ](https://github.com/rockyhappy/SignInExample)
 
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- _Email:_ lyfflame45@gmail.com
-- _LinkedIn:_ [Ankit varshney on LinkedIn](https://www.linkedin.com/in/ankit-varshney-599a6b271)
-- _GitHub:_ [Ankit varshney on GitHub](https://github.com/AVtheking)
+- _Email:_ rachitkatiyar869@gmail.com
+- _LinkedIn:_ [Rachit Katiyar on LinkedIn](https://www.linkedin.com/in/rachit-katiyar-800378275/)
+- _GitHub:_ [Rachit Katiyar on GitHub](https://github.com/rockyhappy)
 
 ---
 
@@ -44,29 +44,28 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm Ankit Varshney, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm Rachit Katiyar, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- \_Full Name: Ankit varshney
-- _Date of Birth:_ April 6,2004
-- _Location:_ Aligarh ,Uttar Pradesh
+- \_Full Name: Rachit Katiyar
+- _Date of Birth:_ July 28,2003
+- _Location:_ Kanpur ,Uttar Pradesh
 
 ## Passions and Values
 
-I have always been passionate about technology and its potential to transform our world. From coding to exploring the latest tech trends, I find joy in staying updated and experimenting with new tools and frameworks.
+My passion for technology is not merely a fleeting interest but an unwavering commitment deeply ingrained in my core values. I am fueled by an unrelenting curiosity and a relentless pursuit of innovation, which drive my dedication to the world of technology. 
 
-I value personal and professional growth. Learning is a lifelong journey, and I'm dedicated to continuously expanding my skills, knowledge, and perspectives.
+I firmly believe that the growth of mankind is intricately intertwined with the evolution of technology. It is not just about the latest gadgets or coding challenges; it's about harnessing the limitless potential of technology to solve real-world problems, empower communities, and create a brighter future for all.
 
-I believe in the power of collaboration and teamwork. Building strong relationships with colleagues and contributing to a positive work environment is something I actively strive for.
+As I continue on this journey, my values serve as a compass, guiding me to use technology as a force for positive change, pushing the boundaries of what's possible, and contributing to the betterment of humanity.
 
 ## Unique Qualities
+My unique qualities lie in my unwavering determination and resilience. I never shy away from challenges; instead, I embrace them as opportunities for growth and self-improvement. 
 
-I have a natural ability to analyze complex problems, break them down into manageable components, and develop effective solutions.
+Failure, to me, is not a setback but a powerful catalyst for positive reinforcement. It serves as a stepping stone toward success, providing valuable lessons and insights that fuel my adaptability. 
 
-I bring a creative approach to my work, whether it's designing a user-friendly interface or finding innovative solutions to challenges.
+This mindset allows me to thrive in almost any situation, adapting quickly to changing circumstances, and finding solutions where others might falter. 
 
-My effective communication skills allow me to convey ideas clearly and work collaboratively with cross-functional teams.
-
-I thrive in dynamic environments and adapt quickly to changing circumstances, making me a valuable asset in fast-paced industries.
+It's this unwavering tenacity and the ability to learn from adversity that make me a tenacious and adaptable individual, ready to tackle the toughest of challenges head-on.
 
 ---
 
@@ -96,6 +95,7 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 - *Github*
 - *Firebase*
 - *Android Studio*
+- *Visual Studio Code*
 
 ## Languages
 
