@@ -86,6 +86,11 @@ const config = {
             to: '/docs/ashutosh',
             position: 'left'
           },
+          {
+            label: 'Paras',
+            to: '/docs/Paras_Upadhayay',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
