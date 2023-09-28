@@ -111,11 +111,11 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+            label: 'Tejas Sharma',
+            to: '/docs/Tejas_Sharma',
+            position: 'left'
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
