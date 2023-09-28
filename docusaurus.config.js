@@ -86,11 +86,11 @@ const config = {
             to: '/docs/ashutosh',
             position: 'left'
           },
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+            label: 'Rachit',
+            to: '/docs/Rachit',
+            position: 'left'
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
