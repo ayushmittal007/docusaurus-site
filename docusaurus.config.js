@@ -103,7 +103,7 @@ const config = {
           },
           {
             label: 'Aakarsh Singh',
-            to: '/docs/Aakarsh_Singh',
+            to: '/docs/Aakarsh',
             position: 'left'
           },
           // {

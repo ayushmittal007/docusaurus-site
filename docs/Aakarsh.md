@@ -1,7 +1,7 @@
 ---
-id: Aakarsh Singh
-title: Aakarsh Singh
-sidebar_label: Aakarsh Singh
+id: Aakarsh
+title: Aakarsh
+sidebar_label: Aakarsh
 ---
 
 # Personal Information
