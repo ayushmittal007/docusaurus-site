@@ -102,7 +102,7 @@ const config = {
             position: 'left'
           },
           {
-            label: 'Som_Gupta',
+            label: 'Som',
             to: '/docs/Som_Gupta',
             position: 'left'
           },

@@ -1,7 +1,7 @@
 ---
 id: Som_Gupta
-title: Som_Gupta
-sidebar_label: Som_Gupta
+title: Som
+sidebar_label: Som
 ---
 
 # Welcome to My Portfolio
