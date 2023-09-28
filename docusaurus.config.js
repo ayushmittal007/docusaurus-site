@@ -113,13 +113,10 @@ const config = {
           },
          { 
             label:'shreyash chaurasia',
-            to:'/docs/shreyash_chaurasia',
+            to:'/docs/shreyash chaurasia',
             position:'left'
         },
-          { label: 'Prashant Kushwaha',
-          to: '/docs/Prashant',
-          position: 'left'
-          },
+
 
           // {
           //   label: 'About',
@@ -134,7 +131,7 @@ const config = {
           },
           {
             label: 'Priyanshi Chauhan',
-            to: '/docs/priyanshi_chauhan',
+            to: '/docs/Priyanshi Chauhan',
             position: 'left'
           },
           // {
