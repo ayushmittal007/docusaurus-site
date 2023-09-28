@@ -87,6 +87,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Lakshya Goel',
+            to: '/docs/Lakshya_Goel',
+            position: 'left'
+          },
+          {
             label: 'Paras',
             to: '/docs/Paras_Upadhayay',
             position: 'left'
