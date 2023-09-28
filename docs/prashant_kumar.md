@@ -1,7 +1,7 @@
 ---
-id: prashant kumar
-title: prashant kumar
-sidebar_label: prashant kumar
+id: prashant_kumar
+title: prashant_kumar
+sidebar_label: prashant_kumar
 ---
 
 # Welcome to My Portfolio
