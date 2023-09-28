@@ -101,6 +101,10 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+          { label: 'Prashant Kushwaha',
+          to: '/docs/Prashant',
+          position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
