@@ -72,18 +72,8 @@ const config = {
         // },
         items: [
           {
-            label: 'Ishika',
-            to: '/docs/ishika',
-            position: 'left'
-          },
-          {
-            label: 'Sanika',
-            to: '/docs/sanika',
-            position: 'left'
-          },
-          {
-            label: 'Ashutosh',
-            to: '/docs/ashutosh',
+            label: 'Rachit',
+            to: '/docs/Rachit',
             position: 'left'
           },
           {
