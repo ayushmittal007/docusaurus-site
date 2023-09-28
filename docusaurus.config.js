@@ -112,6 +112,53 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Deepika Dubey',
+            to: '/docs/Deepika_Dubey',
+            position: 'left'
+          },
+          {
+            label: 'Aakarsh Singh',
+            to: '/docs/Aakarsh',
+            position: 'left'
+          },
+          {
+            label: 'Ayush',
+            to: '/docs/ayush_agrawal',
+            position: 'left'
+          },
+          {
+            label: 'Poorva',
+            to: '/docs/Poorva',
+            position: 'left'
+          },
+          {
+            label: 'Som',
+            to: '/docs/Som_Gupta',
+              position: 'left'
+          },
+          {
+            label: 'Manya Aggarwal',
+             to: '/docs/manya_aggarwal',
+             position: 'left'
+          },
+          {
+            label:'ujjwal Rana',
+            to:'/docs/Ujjwal',
+            position:'left'
+          },
+         { 
+            label:'shreyash chaurasia',
+            to:'/docs/shreyash chaurasia',
+            position:'left'
+        },
+
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
+
+          {
             label: 'Tejas Sharma',
             to: '/docs/Tejas_Sharma',
             position: 'left'
@@ -121,6 +168,16 @@ const config = {
             to: '/docs/prashant_kumar',
             position: 'left'
           },
+          {
+            label: 'Priyanshi Chauhan',
+            to: '/docs/Priyanshi Chauhan',
+            position: 'left'
+          },
+          // {
+          //   label: 'Skills',
+          //   to: '/docs/skills',
+          //   position: 'left'
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
