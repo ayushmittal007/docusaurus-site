@@ -1,44 +1,27 @@
 ---
-id: Saanvi
-title: Saanvi
-sidebar_label: Saanvi
+id: ayush_agrawal
+title: ayush_agrawal
+sidebar_label: ayush_agrawal
 ---
 
-# Welcome to My Portfolio
+# [ Welcome to My Portfolio](https://github.com/ayushmittal007/Portfolio)
 
 
-![Profile Image](https://example.com/profile-image.jpg)
+<!-- ![Profile Image](https://example.com/profile-image.jpg) -->
 
 ## Introduction
 
-Hello, I'm saanvi sonker, a passionate student with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+Hello, I'm Ayush Agrawal, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
-## Featured Work
-
-### Project 1: Awesome Project
-
-![Project 1](https://example.com/project1.jpg)
-
-- *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
-
-### Project 2: Cool Project
-
-![Project 2](https://example.com/project2.jpg)
-
-- *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
 
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* john.doe@example.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
-- *GitHub:* [John Doe on GitHub](https://github.com/johndoe)
-
-
-
+- *Email:* ayushagrawal102004@gmail.com
+- *LinkedIn:* [Ayush Agrawal on LinkedIn](https://www.linkedin.com/in/ayush-agrawal-2a3654266)
+- *GitHub:* [Ayush Agrawal on GitHub](https://github.com/ayushmittal007)
+- *Codechef:* [Ayush Agrawal on Codechef](https://www.codechef.com/users/ayushmittal007)
 
 -------------------------------------------------
 
@@ -47,11 +30,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm saaanvi sonker, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm Ayush Agrawal, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* saanvi sonker
-- *Date of Birth:* march 17, 2005
-- *Location:* gzb,U.P
+- *Full Name:* Ayush Agrawal
+- *Date of Birth:* October 25,2004
+- *Location:* Ghaziabad
 
 ## Passions and Values
 
@@ -85,41 +68,34 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 # Skills
 
-
+- Competitive Programming
 
 
 ## Technical Skills
+
+
 
 ### Web Development
 
 - *Frontend:*
   - HTML
   - CSS
-  
-
-### Database Management
-
-
+  - JavaScript
 
 ### Version Control
 
 - Git
 
-### Tools & Technologies
 
-
-- Responsive Web Design
-
-
-## Certifications
+<!-- ## Certifications
 
 
 - [*AWS Certified Developer - Associate*](https://github.com/your-username/project1)
 - [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
-- [ *Google Analytics Certification*](https://github.com/your-username/project1)
+- [ *Google Analytics Certification*](https://github.com/your-username/project1) -->
 
 ## Languages
 
-- *JavaScript*
-- *Python*
+- C++,C
 - *HTML/CSS*
+- *JavaScript*

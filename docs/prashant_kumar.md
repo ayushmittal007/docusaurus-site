@@ -1,40 +1,41 @@
 ---
-id: Prashant kushwaha
-title: Prashant
-sidebar_label: prashant
+id: prashant_kumar
+title: prashant_kumar
+sidebar_label: prashant_kumar
 ---
 
 # Welcome to My Portfolio
 
 
-![Profile Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAB2CAMAAAAqeZcjAAAAMFBMVEXk5ueutLfq7O2nrrHn6eqrsbSxt7rb3t+6v8LS1dfe4eLGysy2u77Jzc++w8XW2dryc262AAACk0lEQVRoge2a0XKEIAxFQQMogv7/31Zt1+62uyFxL3amw3loH88AIZJkjWk0Go1Go9FoNP4f1JGJMe7/L3OaZUp2xw850CVmCrN1zt5wzudYXUxhuHN+me1kKounX9Jd7JeKXgr+mXQXT9W8tLySbt5Uyzr2r63bRldZLwXWulLFG0tW6wa8l3zJunoz2ksTE07f3gjWBonV2gFrpUFktW6EbjN3Yx+A3l4apFq3ALVRKMVeIhqli13BBbM0oPbljjBtFKSKQzvDdll4aT/BZWbN0VqPOlxZYjwIKO2sscJubqcIZGAoU/oTbfc3Wk22AJ4tzZpIdrBIzqoLBEvKS/H1dodHWU3QLDZ1MK8ilIGvR01MwSLKKJ5SyKNdEX9woZWf4gpBH+jSNxzwbbEh/eTCqxHR6cJrehJlKmgYf3oF29yjt9hIPvY9tu66eQvH28OL6i8St8/VrMYwhR+4sn2A8itpCjXbf1vL8Ym0ftORxvSj7ejsXL/FaojC5K3b3Nsfly7o697McczzypSXeFn/nIi6A7qgeb76TBjzNKR9m531aZjzuJiumnwz5tn2u+4+onaGvLnhTop5vTpcP9mtwYUdV6zOxCm/r5KfUGaiZZY4b+Y0AlIH/U4PRbPP74ppYb86dcRrBtYUXQ/iNz5Iug7NI/3JRM0MfYQrPrPgTldLP1+w2ivvIHPrVZcmb27wIdY9OkBWpRfkVHrPpAjGK5NCoukOWWGk7EKVcZKZFDukPemV1AuKuYDYWzxeZadcSCotN9awFtOzrpkqpzAukU/VdPBNZvjlOWBPVzIJPwn3LVJ1cFW4zGhV4y0dzIBVN2dS8lrbVbRyM7iKVuYKhb4izFSqq8h1P5prNBqNt/kAZMgeBv6ANH0AAAAASUVORK5CYII=)
+![Profile Image](https://pps.whatsapp.net/v/t61.24694-24/345014939_223838650349658_2199072328151032082_n.jpg?ccb=11-4&oh=01_AdTgCataPVrHnbPIVOj2FsyMmUwDqmkRXsmvyAixUBO5Lg&oe=6522DA6D&_nc_sid=000000&_nc_cat=104)
 
 ## Introduction
 
-Hello, I'm Prashant kushwaha, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+Hello, I'm prashant kumar, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
 ## Featured Work
 
 ### Project 1: Awesome Project
 
-![Project 1]()
+![Project 1](https://example.com/project1.jpg)
 
 - *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo]()
+- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
 
 ### Project 2: Cool Project
 
-![Project 2]()
+![Project 2](https://example.com/project2.jpg)
 
 - *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo]()
+- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
 
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* prashantkush24@gmail.com
-- 
+- *Email:* prashant2231109@akgec.ac.in
+- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/prashnt)
+- *GitHub:* [John Doe on GitHub](https://github.com/prashant2231109)
 
 
 
@@ -46,11 +47,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm Prashant kushwaha, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm prashant kumar, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* Prashant kushwaha
-- *Date of Birth:* January 24,2004
-- *Location:* Prayagraj
+- *Full Name:* prashant kumar
+- *Date of Birth:* 13/10/2003
+- *Location:* patna,bihar
 
 ## Passions and Values
 
@@ -83,7 +84,7 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 -------------------------------------------------
 
 # Skills
- - c
+
 
 
 
@@ -94,7 +95,7 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 - *Frontend:*
   - HTML
   - CSS
-
+ 
 
 
 
@@ -102,13 +103,23 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 - Git
 
+### Tools & Technologies
 
+- Docker
+- RESTful API Development
+- GraphQL
+- Responsive Web Design
+- Testing (Jest, Mocha, Chai)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Agile Development
 
 ## Certifications
 
 
-
+- [*AWS Certified Developer - Associate*](https://github.com/your-username/project1)
+- [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
+- [ *Google Analytics Certification*](https://github.com/your-username/project1)
 
 ## Languages
 
-- C
+- *c language*
