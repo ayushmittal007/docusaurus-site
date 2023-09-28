@@ -91,6 +91,31 @@ const config = {
             to: '/docs/Lakshya_Goel',
             position: 'left'
           },
+          {
+            label: 'Paras',
+            to: '/docs/Paras_Upadhayay',
+            position: 'left'
+          },
+          {
+               label: 'Sarthak_Rastogi',
+                to: '/docs/Sarthak_Rastogi',
+                position: 'left'
+          },
+          {
+            label: 'Lakshay Gupta',
+            to: '/docs/lakshay_gupta',
+            position: 'left'
+          },
+          {
+            label: 'Ankit',
+            to: '/docs/ankit',
+            position: 'left'
+          },
+          {
+            label: 'Yash Bansal',
+            to: '/docs/Yash_Bansal',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
