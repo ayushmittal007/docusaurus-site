@@ -113,7 +113,7 @@ const config = {
           },
           {
             label:'ujjwal Rana',
-            to:'/docs/Ujjwal_rana',
+            to:'/docs/Ujjwal',
             position:'left'
           },
           { label: 'Prashant Kushwaha',
