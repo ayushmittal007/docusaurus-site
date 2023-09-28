@@ -122,6 +122,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Poorva',
+            to: '/docs/Poorva',
+            position: 'left'
+          },
+          {
             label: 'Som',
             to: '/docs/Som_Gupta',
               position: 'left'
