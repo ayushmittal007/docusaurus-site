@@ -113,7 +113,7 @@ const config = {
           },
           {
             label: 'Manya Aggarwal',
-             to: '/docs/Manya',
+             to: '/docs/manya_aggarwal',
              position: 'left'
           },
           {
