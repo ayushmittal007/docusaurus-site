@@ -46,7 +46,7 @@ Thank you for taking the time to get to know me, and I am excited to embark on t
 
 ### Project 3: New Portfolio 
 
-![Project 3]()
+![Project 3](https://github.com/Mr-TejasSharma/demo/blob/main/port.png?raw=true)
 
 - *Description:* I've designed this portfolio with a focus on clean, responsive design to ensure a seamless experience for visitors across various devices, including desktops, tablets, and smartphones. It's a reflection of my commitment to creating user-friendly web solutions that combine functionality and aesthetics.
 - *GitHub Repository:* [Project 3 Repo](https://github.com/Mr-TejasSharma/port/)
