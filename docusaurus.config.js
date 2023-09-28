@@ -105,7 +105,7 @@ const config = {
             label: 'Deepika Dubey',
             to: '/docs/Deepika_Dubey',
             position: 'left'
-          },
+          }
           // {
           //   label: 'About',
           //   to: '/docs/about',
