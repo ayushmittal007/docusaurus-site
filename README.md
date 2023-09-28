@@ -1,41 +1,14 @@
-# Website
+Steps to complete the docusauis task :
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+1. Fork this github repository.
+2. Add your name.ms file in the docs folder.
+3. Change the file accordingly.
+4. Add your name link in the navbar.
+5. Push this work to your own repository.
+6. Make a pull request to the docusaurus repository.
 
-### Installation
 
-```
-$ yarn
-```
 
-### Local Development
 
-```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
