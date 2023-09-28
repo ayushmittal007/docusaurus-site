@@ -56,8 +56,8 @@ Thank you for taking the time to get to know me, and I am excited to embark on t
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* tejas.sharma111002@gmail.com.com
-- *LinkedIn:* [Tejas on LinkedIn](https://www.linkedin.com/in/Tejas_Sharma)
-- *GitHub:* [Tejas on GitHub](https://github.com/Mr-TejasSharma)
+- *LinkedIn:* [Tejas_Sharma on LinkedIn](https://www.linkedin.com/in/Tejas_Sharma)
+- *GitHub:* [Tejas_Sharma on GitHub](https://github.com/Mr-TejasSharma)
 
 
 
