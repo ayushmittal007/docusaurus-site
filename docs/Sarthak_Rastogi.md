@@ -1,7 +1,7 @@
 ---
-id: Sarthak Rastogi
-title: Sarthak Rastogi
-sidebar_label: Sarthak Rastogi
+id: Sarthak_Rastogi
+title: Sarthak_Rastogi
+sidebar_label: Sarthak_Rastogi
 ---
 
 # Welcome to My Portfolio
