@@ -30,27 +30,34 @@ Thank you for taking the time to get to know me, and I am excited to embark on t
 
 ## Featured Work
 
-### Project 1: Awesome Project
+### Project 1: Portfolio 
 
 ![Project 1](https://github.com/Mr-TejasSharma/demo/blob/main/port.png?raw=true)
 
 - *Description:* I've designed this portfolio with a focus on clean, responsive design to ensure a seamless experience for visitors across various devices, including desktops, tablets, and smartphones. It's a reflection of my commitment to creating user-friendly web solutions that combine functionality and aesthetics.
 - *GitHub Repository:* [Project 1 Repo](https://github.com/Mr-TejasSharma/Portfolio/)
 
-### Project 2: Cool Project
+### Project 2: Survey Form
 
 ![Project 2](https://github.com/Mr-TejasSharma/demo/blob/main/survey.png?raw=true)
 
 - *Description:* i have created a survey with HTML and CSS such that it's important to prioritize user experience, accessibility, and data privacy and  Ensure that survey is well-structured, visually appealing, and easy to navigate to encourage participation and provide valuable insights.
 - *GitHub Repository:* [Project 2 Repo](https://github.com/Mr-TejasSharma/Portfolio/)
 
+### Project 1: Portfolio 
+
+![Project 3]()
+
+- *Description:* I've designed this portfolio with a focus on clean, responsive design to ensure a seamless experience for visitors across various devices, including desktops, tablets, and smartphones. It's a reflection of my commitment to creating user-friendly web solutions that combine functionality and aesthetics.
+- *GitHub Repository:* [Project 1 Repo](https://github.com/Mr-TejasSharma/port/)
+
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* tejas.sharma111002@gmail.com.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/Tejas_Sharma)
-- *GitHub:* [John Doe on GitHub](https://github.com/Mr-TejasSharma)
+- *LinkedIn:* [Tejas on LinkedIn](https://www.linkedin.com/in/Tejas_Sharma)
+- *GitHub:* [Tejas on GitHub](https://github.com/Mr-TejasSharma)
 
 
 
