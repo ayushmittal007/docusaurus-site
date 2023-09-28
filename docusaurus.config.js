@@ -111,6 +111,22 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+         { 
+            label:'shreyash chaurasia',
+            to:'/docs/shreyash_chaurasia',
+            position:'left'
+        },
+          { label: 'Prashant Kushwaha',
+          to: '/docs/Prashant',
+          position: 'left'
+          },
+
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
+
           {
             label: 'Tejas Sharma',
             to: '/docs/Tejas_Sharma',
@@ -121,7 +137,6 @@ const config = {
             to: '/docs/priyanshi_chauhan',
             position: 'left'
           },
-          
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
