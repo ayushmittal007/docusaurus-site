@@ -81,6 +81,11 @@ const config = {
             to: '/docs/sanika',
             position: 'left'
           },
+          {
+            label: 'Ashutosh',
+            to: '/docs/ashutosh',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
