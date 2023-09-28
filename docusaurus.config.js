@@ -92,6 +92,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Akash Rajput',
+            to: '/docs/akash',
+            position: 'left'
+          },
+          {
             label: 'Ankit',
             to: '/docs/ankit',
             position: 'left'
