@@ -101,6 +101,12 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
+          
+         { label:'shreyash chaurasia',
+          to:'/docs/shreyash_chaurasia',
+          position:'left'
+        },
+
           // {
           //   label: 'About',
           //   to: '/docs/about',
