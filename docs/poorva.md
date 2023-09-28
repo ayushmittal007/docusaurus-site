@@ -3,19 +3,14 @@ id: Poorva
 title: Poorva
 sidebar_label: Poorva
 ---
-
-# Welcome to My Portfolio
-
-
-![Profile Image](https://example.com/profile-image.jpg)
-
+https://drive.google.com/file/d/1Y23OvQNIcD0lmE0uyZD5kli06NdjjJb6/view?usp=drivesdk
 ## Introduction
 
 Hello, I'm John Doe, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
 ## Featured Work
 
-### Project 1: Cool Project
+### Project 1: My HTML web page
 
 ![Project 1]
 
@@ -27,8 +22,8 @@ Hello, I'm John Doe, a passionate software engineer with a keen interest in web 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* poorvakhatri04@gmail.com
-- *LinkedIn:* [Poorva Khatri on LinkedIn](https://www.linkedin.com/in/poorvakhatri)
-- *GitHub:* [Poorva Khatri on GitHub](https://github.com/poorvakhatri)
+- *LinkedIn:* [Poorva Khatri on LinkedIn](https://www.linkedin.com/in/poorva-khatri-129879276)
+- *GitHub:* [Poorva Khatri on GitHub](https://github.com/poorvakhatri04)
 
 
 
