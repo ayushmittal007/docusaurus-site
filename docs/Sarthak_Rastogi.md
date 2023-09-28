@@ -7,7 +7,8 @@ sidebar_label: Sarthak_Rastogi
 # Welcome to My Portfolio
 
 
-![Profile Image](https://github.com/account)
+![Profile Image](https://pps.whatsapp.net/v/t61.24694-24/371024159_631728302440517_5065893433972518625_n.jpg?ccb=11-4&oh=01_AdRQRMgA8qmS4QN94Q0wrNwFky5kYg4grHfdgJqqcLBe_A&oe=65229BCE&_nc_sid=000000&_nc_cat=101
+)
 
 ## Introduction
 
@@ -22,7 +23,7 @@ Greetings, I'm SARTHAK RASTOGI, an enthusiastic software development apprentice 
 - *Description:* Android Movie App This Android Movie App project allows users to browse and discover popular and top-rated movies. It leverages  the TMDb API to fetch movie data and displays it in a user-friendly interface.
 - *GitHub Repository:* [Project 1 Repo](https://github.com/Sarthakverse/Popular_Movies_App)
 
-### Project 2: Cool Project
+### Project 2: GITHUB_API
 
 ![Project 2](https://user-images.githubusercontent.com/117356021/270090498-49466ffc-f8ee-4691-acc4-9cce21fa6bb8.png)
 
