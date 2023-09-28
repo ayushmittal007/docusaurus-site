@@ -116,10 +116,6 @@ const config = {
             to:'/docs/Ujjwal',
             position:'left'
           },
-          { label: 'Prashant Kushwaha',
-          to: '/docs/Prashant',
-          position: 'left'
-          },
          { 
             label:'shreyash chaurasia',
             to:'/docs/shreyash chaurasia',
