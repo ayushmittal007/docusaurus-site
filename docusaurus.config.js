@@ -117,6 +117,12 @@ const config = {
             position:'left'
         },
 
+
+          { label: 'Prashant Kushwaha',
+          to: '/docs/Prashant',
+          position: 'left'
+          },
+
           // {
           //   label: 'About',
           //   to: '/docs/about',
