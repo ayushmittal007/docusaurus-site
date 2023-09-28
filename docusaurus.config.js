@@ -101,11 +101,11 @@ const config = {
             to: '/docs/Yash_Bansal',
             position: 'left'
           },
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+            label: 'Som_Gupta',
+            to: '/docs/Som_Gupta',
+            position: 'left'
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
