@@ -63,6 +63,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         // title: 'My Site',
@@ -92,9 +96,9 @@ const config = {
             position: 'left'
           },
           {
-               label: 'Sarthak_Rastogi',
-                to: '/docs/Sarthak_Rastogi',
-                position: 'left'
+            label: 'Sarthak_Rastogi',
+            to: '/docs/Sarthak_Rastogi',
+            position: 'left'
           },
           {
             label: 'Lakshay Gupta',
