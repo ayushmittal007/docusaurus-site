@@ -178,6 +178,12 @@ const config = {
             to: '/docs/Priyanshi Chauhan',
             position: 'left'
           },
+          {
+            label: 'Abhinandan Pandey',
+            to: '/docs/abhinandan',
+            position: 'left'
+          },
+          
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
