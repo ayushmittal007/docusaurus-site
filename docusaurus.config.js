@@ -116,8 +116,6 @@ const config = {
             to:'/docs/shreyash_chaurasia',
             position:'left'
         },
-
-
           { label: 'Prashant Kushwaha',
           to: '/docs/Prashant',
           position: 'left'
@@ -128,6 +126,7 @@ const config = {
           //   to: '/docs/about',
           //   position: 'left'
           // },
+
           {
             label: 'Tejas Sharma',
             to: '/docs/Tejas_Sharma',
