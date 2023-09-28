@@ -1,41 +1,24 @@
 ---
-id: Deepika_Dubey
-title: dubey
+id: Deepika
+title: Deepika
 sidebar_label: Deepika
 ---
 
 # Welcome to My Portfolio
 
 
-![Profile Image](https://example.com/profile-image.jpg)
+![Profile Image](https://www.instagram.com/krishn_sakkhiiiii/)
 
 ## Introduction
 
-Hello, I'm Deepika DUbey a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+Hello, I'm Deepika, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies.
 
-## Featured Work
-
-### Project 1: Awesome Project
-
-![Project 1](https://example.com/project1.jpg)
-
-- *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
-
-### Project 2: Cool Project
-
-![Project 2](https://example.com/project2.jpg)
-
-- *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
-
-## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* dubeydeepika1209@gmail.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
-- *GitHub:* [John Doe on GitHub]
+- *LinkedIn:* [Deepika on LinkedIn] (https://www.linkedin.com/in/deepika-dubey-6384a2255)
+- *GitHub:* [Deepika on GitHub](https://github.com/software-incubator-probation-1/introduction-to-git-Dubey1209)
 
 
 
@@ -47,11 +30,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm John Doe, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello,Myself Deepika Dubey, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* John Doe
-- *Date of Birth:* January 1, 1990
-- *Location:* New York, NY
+- *Full Name:* Deepika Dubey
+- *Date of Birth:* September 12,2003
+- *Location:* Mirzapur , Uttar Pradesh
 
 ## Passions and Values
 
@@ -65,7 +48,7 @@ I value personal and professional growth. Learning is a lifelong journey, and I'
 I believe in the power of collaboration and teamwork. Building strong relationships with colleagues and contributing to a positive work environment is something I actively strive for.
 
 
-## Qualities
+## Unique Qualities
 
 
 I have a natural ability to analyze complex problems, break them down into manageable components, and develop effective solutions.
@@ -95,12 +78,4 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 - *Frontend:*
   - HTML
   - CSS
-
-
-### Version Control
-
-- Git
-
-
-
-
+  
