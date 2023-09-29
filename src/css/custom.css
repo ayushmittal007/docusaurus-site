@@ -18,7 +18,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -27,4 +27,63 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+body {
+  overflow-y: scroll !important;
+}
+
+.navbar__item,
+.navbar__item--right {
+  display: none !important;
+}
+
+.mainSection {
+  width: 100%;
+  margin-left: 1%;
+  height: 100vh;
+  text-align: center;
+  padding-top: 50px;
+  position: fixed;
+}
+
+.navbarSide {
+  background-color: var(--ifm-navbar-background-color);
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000 !important;
+  height: 100%;
+  width: 25%;
+  border-right: 1.5px solid rgba(0, 0, 0, 0.1);
+  border-top: 1.5px solid rgba(0, 0, 0, 0.1);
+  overflow-y: scroll !important;
+  margin-top: 60px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.navList {
+  list-style: none;
+  padding: 16px 40px 80px 12px;
+}
+
+.navList li {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #0094ff;
+}
+@media (max-width: 992px) {
+  .navbarSide {
+    display: none;
+  }
+  .mainSection {
+    margin-left: 0%;
+  }
+}
+
+.darkToggleIcon_wfgR {
+  display: none !important;
 }

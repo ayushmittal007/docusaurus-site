@@ -1,7 +1,7 @@
 ---
-id: Ishika
-title: Ishika
-sidebar_label: Ishika
+id: Prashant_Kushwaha
+title: Prashant_Kushwaha
+sidebar_label: Prashant_Kushwaha
 ---
 
 # Welcome to My Portfolio
@@ -11,7 +11,7 @@ sidebar_label: Ishika
 
 ## Introduction
 
-Hello, I'm John Doe, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+Hello, Prashant Kushwaha a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
 ## Featured Work
 
@@ -33,9 +33,9 @@ Hello, I'm John Doe, a passionate software engineer with a keen interest in web 
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- Email: john.doe@example.com
+- Email: prashantkush24@gmail.com
 - LinkedIn: [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
-- GitHub: [John Doe on GitHub](https://github.com/johndoe)
+- GitHub: [John Doe on GitHub](https://github.com/kushwahaPrashant24)
 
 
 
@@ -47,11 +47,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm John Doe, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm Prashant Kushwaha, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- Full Name: John Doe
-- Date of Birth: January 1, 1990
-- Location: New York, NY
+- Full Name: Prashant Kushwaha
+- Date of Birth: January 24, 2005
+- Location: prayagraj,up
 
 ## Passions and Values
 
@@ -95,15 +95,6 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 - Frontend:
   - HTML
   - CSS
-  - JavaScript
-  - React
-  - Vue.js
-  - Redux
-- Backend:
-  - Node.js
-  - Express.js
-  - Python (Django, Flask)
-  - Ruby on Rails
 
 ### Database Management
 
@@ -135,8 +126,4 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 ## Languages
 
-- JavaScript
-- Python
-- Ruby
-- SQL
 - HTML/CSS
