@@ -15,7 +15,7 @@ creating innovative solutions have all become integral parts of my life.
 
 ## Featured Work
 
-### Project 1: MakemyMeal
+### Project 1: MakemyMealgit
 
 
 - *Description:* This is an online food delivery website.
