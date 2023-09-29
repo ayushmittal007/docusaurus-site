@@ -178,6 +178,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Harsh Jain',
+            to: '/docs/Harsh Jain',
+            position: 'left'
+          },
+          {
             label: 'prashant_kumar',
             to: '/docs/prashant_kumar',
             position: 'left'
