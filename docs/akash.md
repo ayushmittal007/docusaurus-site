@@ -98,3 +98,4 @@ I'm always open to new opportunities and collaborations. If you have an interest
 - *Email:* akash22164033@akgec.ac.in
 - *LinkedIn:* [Akash on LinkedIn](https://www.linkedin.com/in/akash-l-rajput-848b0327a/)
 - *GitHub:* [Akash on GitHub](https://github.com/akash85246)
+- *Portfolio:* [Akash Portfolio](https://github.com/akash85246/my_portfolio.git)
