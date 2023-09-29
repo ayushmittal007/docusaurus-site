@@ -6,15 +6,24 @@ import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import styles from "./index.module.css";
-import Newbar from "./new";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+
+  const navbarItems = siteConfig.themeConfig.navbar.items;
   return (
     <div className="container mainDiv">
       <div className="row">
         <div className="col col--3 navbarSide">
-          <Newbar navbarItems={siteConfig.themeConfig.navbar.items} />
+          <aside>
+            <ul className="navList">
+              {navbarItems.map((item) => (
+                <li key={item.label}>
+                  <Link to={item.to}>{item.label}</Link>
+                </li>
+              ))}
+            </ul>
+          </aside>
         </div>
         <div className="mainSection">
           {/* <header className={clsx("hero hero--primary", styles.heroBanner)}> */}
