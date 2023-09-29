@@ -72,19 +72,29 @@ const config = {
         // },
         items: [
           {
-            label: 'Ishika',
-            to: '/docs/ishika',
+            label: 'Rachit',
+            to: '/docs/Rachit',
             position: 'left'
           },
           {
-            label: 'Sanika',
-            to: '/docs/sanika',
+            label:'Anshika',
+            to: '/docs/anshika',
+              position: 'left'
+          },
+          {
+            label: 'Lakshya Goel',
+            to: '/docs/Lakshya_Goel',
             position: 'left'
           },
           {
-            label: 'Ashutosh',
-            to: '/docs/ashutosh',
+            label: 'Paras',
+            to: '/docs/Paras_Upadhayay',
             position: 'left'
+          },
+          {
+               label: 'Sarthak_Rastogi',
+                to: '/docs/Sarthak_Rastogi',
+                position: 'left'
           },
           {
             label: 'Lakshay Gupta',
@@ -103,7 +113,34 @@ const config = {
           },
           {
             label: 'Manya Aggarwal',
-            to: '/docs/manya_aggarwal',
+             to: '/docs/Manya',
+             position: 'left'
+          },
+          {
+            label:'ujjwal Rana',
+            to:'/docs/Ujjwal',
+            position:'left'
+          },
+         { 
+            label:'shreyash chaurasia',
+            to:'/docs/shreyash chaurasia',
+            position:'left'
+        },
+
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
+
+          {
+            label: 'Tejas Sharma',
+            to: '/docs/Tejas_Sharma',
+            position: 'left'
+          },
+          {
+            label: 'Priyanshi Chauhan',
+            to: '/docs/Priyanshi Chauhan',
             position: 'left'
           },
           // {
