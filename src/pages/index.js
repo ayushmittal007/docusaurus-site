@@ -14,7 +14,7 @@ function HomepageHeader() {
   return (
     <div className="container mainDiv">
       <div className="row">
-        <div className="col col--3 navbarSide">
+        <div className="col col--2 navbarSide">
           <aside>
             <ul className="navList">
               {navbarItems.map((item) => (
@@ -25,7 +25,7 @@ function HomepageHeader() {
             </ul>
           </aside>
         </div>
-        <div className="mainSection">
+        <div className="mainSection" style={{}}>
           {/* <header className={clsx("hero hero--primary", styles.heroBanner)}> */}
           <main className="">
             <h1 className="hero__title">Portfolio Site</h1>
@@ -34,10 +34,10 @@ function HomepageHeader() {
               src="https://www.silive.in/home/ubuntu/Icecream/Assets/static/images/silogo.svg"
               style={{ width: "100px", height: "100px" }}
             />
-            <div className={styles.buttons}>
+            <div className={styles.buttons} style={{marginTop:"30px"}}>
               <Link
                 className="button button--secondary button--lg"
-                to="/docs/intro"
+                to=""
               >
                 Love.Peace.Code
               </Link>
@@ -54,7 +54,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from SDC-SI`}
+      title={`Portfolio Site`}
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
