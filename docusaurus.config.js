@@ -118,7 +118,7 @@ const config = {
           },
           {
             label: 'Harsh Jain',
-            to: '/docs/Harsh_Jain',
+            to: '/docs/Harsh Jain',
             position: 'left'
           },
           // {
