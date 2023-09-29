@@ -166,11 +166,11 @@ const config = {
             position:'left'
         },
 
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+            label: 'Prashant_Kushwaha',
+            to: '/docs/Prashant_Kushwaha',
+            position: 'left'
+          },
 
           {
             label: 'Tejas Sharma',
