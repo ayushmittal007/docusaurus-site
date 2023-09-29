@@ -116,6 +116,11 @@ const config = {
             to: '/docs/Tejas_Sharma',
             position: 'left'
           },
+          {
+            label: 'Harsh Jain',
+            to: '/docs/Harsh_Jain',
+            position: 'left'
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
