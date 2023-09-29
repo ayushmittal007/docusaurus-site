@@ -116,6 +116,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Rakshita',
+            to: '/docs/Rakshita',
+            position: 'left'
+          },
+          {
             label: 'saanvisonker',
             to: '/docs/Saanvi',
             position: 'left'
