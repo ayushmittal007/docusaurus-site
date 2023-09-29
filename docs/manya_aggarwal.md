@@ -1,8 +1,3 @@
-id: Manya
-title: Manyaa
-sidebar_label: Manya
----
-
 # Welcome to My Portfolio
 
 
@@ -20,7 +15,7 @@ creating innovative solutions have all become integral parts of my life.
 
 ## Featured Work
 
-### Project 1: MakemyMeal
+### Project 1: MakemyMealgit
 
 
 - *Description:* This is an online food delivery website.
@@ -39,3 +34,82 @@ I'm always open to new opportunities and collaborations. If you have an interest
 - *LinkedIn:* [Manya Aggarwal on LinkedIn](https://www.linkedin.com/in/manya-aggarwal-961980249/)
 - *GitHub:* [Manya Aggarwal on GitHub](https://github.com/Manya1101)
 -  *Leetcode:* [Manya Aggarwal on Leetcode](https://leetcode.com/Manyaaa123/)
+
+
+
+---------------------------------------
+
+# About
+
+
+## Personal Information
+
+Hello, I'm Manya Aggarwal, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+
+- *Full Name:* Manya Aggarwal
+- *Date of Birth:* March 11'2004
+- *Location:* Bulandshahr
+## Passions and Values
+
+
+I have always been passionate about technology and its potential to transform our world. From coding to exploring the latest tech trends, I find joy in staying updated and experimenting with new tools and frameworks.
+
+
+I value personal and professional growth. Learning is a lifelong journey, and I'm dedicated to continuously expanding my skills, knowledge, and perspectives.
+
+
+I believe in the power of collaboration and teamwork. Building strong relationships with colleagues and contributing to a positive work environment is something I actively strive for.
+
+
+## Unique Qualities
+
+
+I have a natural ability to analyze complex problems, break them down into manageable components, and develop effective solutions.
+
+
+I bring a creative approach to my work, whether it's designing a user-friendly interface or finding innovative solutions to challenges.
+
+
+My effective communication skills allow me to convey ideas clearly and work collaboratively with cross-functional teams.
+
+
+I thrive in dynamic environments and adapt quickly to changing circumstances, making me a valuable asset in fast-paced industries.
+
+
+
+-------------------------------------------------
+
+# Skills
+
+
+
+
+## Technical Skills
+
+### Web Development
+
+- *Frontend:*
+  - HTML
+  - CSS
+  
+ 
+
+### Version Control
+
+- Git
+
+### Tools & Technologies
+
+- GitHub
+- Responsive Web Design
+- Visual Code Studio
+- MS Office
+
+
+
+## Languages
+
+- *JavaScript*
+- *C++*
+- *SQL*
+- *HTML/CSS*
